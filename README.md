@@ -13,7 +13,7 @@ It does **not include**:
 
 ## 📦 What’s Inside
 
-- `frontend/` – Web UI for interacting with the model  
+- `dna-react/` – Web UI for interacting with the model  
 - `dna_back/` – FastAPI backend with prediction logic and API endpoints  
 - `.env.local` – Configure your environment variables (not included in repo)
 
@@ -45,4 +45,4 @@ Once you have the required files:
 
 ## 📬 Contact
 
-For academic or internal use only. Please contact the project owner for additional access or support.
+Please contact **Silpakorn Professor or the project owner** for additional access or support.
