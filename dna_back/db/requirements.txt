@@ -1,0 +1,2 @@
+SQLAlchemy==2.0.38
+utils==1.0.2

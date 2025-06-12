@@ -1,0 +1,9 @@
+Bio==1.8.0
+biopython==1.85
+fastapi==0.115.12
+joblib==1.4.2
+numpy==2.3.0
+pydantic==2.11.5
+SQLAlchemy==2.0.38
+tensorflow==2.18.0
+uvicorn==0.34.3
