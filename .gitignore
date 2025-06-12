@@ -1,0 +1,77 @@
+# === Python ===
+*.py[cod]
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+.env
+.env.local
+
+# Ignore the TensorFlow C library in your venv
+venv/lib/python3.*/site-packages/tensorflow/libtensorflow_cc*.dylib
+
+# Packaging/tools
+dist/
+build/
+*.egg
+*.egg-info/
+__pypackages__/
+
+# Caches & tooling
+.cache/
+.pytest_cache/
+.mypy_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sphinx build outputs
+sphinx-doc/_build/
+sphinx-doc/_site/
+
+# Git history or local-only folders
+.history/
+
+# === Project-specific data/models ===
+# Database files
+data.db
+dna_back/utils/data.db
+
+# Model artifacts
+dna_back/Model/
+
+# Temporary files
+*.log
+*.bak
+.DS_Store
+*.swp
+*.swo
+*.sln
+*.suo
+
+# Logs
+logs/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Node.js (DNA-React)
+dna-react/node_modules/
+dna-react/dist/
+dna-react/dist-ssr/
+dna-react/*.local/
+dna-react/build/
+dna-react/.env.local
+dna-react/.env.*.local
+
+# Coverage and reports
+htmlcov/
+coverage/
+
+# IDE/editor
+.vscode/
+.idea/
+*.iml
