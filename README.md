@@ -41,6 +41,7 @@ Once you have the required files:
    `dna_back/utils/`
 
 3. Install dependencies and run the app.
+
 **⚠️ Please make sure to correct all the paths as needed based on your environment.**
 ---
 
