@@ -15,7 +15,7 @@ It does **not include**:
 
 - `dna-react/` – Web UI for interacting with the model  
 - `dna_back/` – FastAPI backend with prediction logic and API endpoints
-- 'sphinxdoc/' - Briefly Explanation about APIs Manuals
+- 'sphinx-doc/' - Briefly Explanation about APIs Manuals
 - `.env.local` – Configure your environment variables (not included in repo)
 
 ---
