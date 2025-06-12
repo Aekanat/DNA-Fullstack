@@ -14,7 +14,8 @@ It does **not include**:
 ## 📦 What’s Inside
 
 - `dna-react/` – Web UI for interacting with the model  
-- `dna_back/` – FastAPI backend with prediction logic and API endpoints  
+- `dna_back/` – FastAPI backend with prediction logic and API endpoints
+- 'sphinxdoc/' - Briefly Explanation about APIs Manuals
 - `.env.local` – Configure your environment variables (not included in repo)
 
 ---
@@ -37,10 +38,10 @@ Once you have the required files:
    `dna_back/models/`
 
 2. Place database files inside:  
-   `dna_back/db/`
+   `dna_back/utils/`
 
 3. Install dependencies and run the app.
-
+**⚠️ Please make sure to correct all the paths as needed based on your environment.**
 ---
 
 ## 📬 Contact
