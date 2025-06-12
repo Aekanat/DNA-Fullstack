@@ -40,7 +40,7 @@ Once you have the required files:
 2. Place database files inside:  
    `dna_back/utils/`
 
-3. Install dependencies and run the app.
+3. Install dependencies in requirements.txt on both back-end and front-end then run the app.
 
 **⚠️ Please make sure to correct all the paths as needed based on your environment.**
 ---
